@@ -1,5 +1,7 @@
 # Youtube Channel Repository
 
+## Mastering Python Librarires, https://www.youtube.com/playlist?list=PLkdGijFCNuVm4IfZlsZPEt4fPJHfl-0g5
+
 Contained here is all the code contained in my videos on youtube. I have a docker image that will make things simple (no need to worry about dependencies when running my code)!
 
 https://hub.docker.com/r/lukepolson/psolver_base
